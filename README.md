@@ -5,11 +5,9 @@ Development of a supervised learning ANN model applied to the ANI- 1 data set.
 ### Jupyter Notebook environment configuration
 Configure conda first with the following commands:
    
-    ```bash
     module load anaconda3
     conda init bash
     source ~/.bashrc
-    ``` 
    
    Use Eric's environment which has all required dependencies for the ANI project (torch, torchani, numpy):
    
