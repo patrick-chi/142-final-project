@@ -16,7 +16,7 @@ Configure conda first with the following commands:
    python -m ipykernel install --user --name=ani
    ```
    
-   Then you'll see the kernel in Jupyter Notebook:
+   Then you'll see the kernel in Jupyter Notebook.
    
    **Note**: If you are using Eric's environment, please don't install any other packages to this environment.
     
