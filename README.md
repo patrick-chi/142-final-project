@@ -5,8 +5,7 @@ Development of a supervised learning ANN model applied to the ANI- 1 data set.
 ### Jupyter Notebook environment configuration
 Configure conda first with the following commands:
    
-    ```bash
-
+    ```
     module load anaconda3
     conda init bash
     source ~/.bashrc
@@ -20,8 +19,6 @@ Configure conda first with the following commands:
    ```
    
    Then you'll see the kernel in Jupyter Notebook:
-   
-   <img src="./jupyter_kernel.png" width="800" />
    
    **Note**: If you are using Eric's environment, please don't install any other packages to this environment.
     
